@@ -1,0 +1,96 @@
+/* *{
+  margin: auto;
+  padding: auto;
+  box-sizing: border-box;
+} */
+body{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.main_body{
+  align-items: center;
+  border: 5px solid black;
+  width: 300px;
+  height: 600px;
+  
+  text-align: center;
+}
+p{
+  margin: 0;
+  display: flex;
+  justify-content: space-between;
+}
+.font{
+  padding-top: 0px;
+  font-weight: 900;
+  padding-bottom: 15px;
+}
+.fontA1{
+  font-weight: bold;
+  font-size: large;
+
+}
+.small_letter{
+  font-weight: bold;
+  padding-top: 0px;
+}
+.small_letterS2{
+font-size:xx-large ;
+padding-top: 10px;
+padding-bottom: 0px;
+}
+
+.shift_right{
+  justify-content: right;
+  font-weight: bolder;
+}
+.AA1{
+  margin-left: 10px;
+}
+
+.mark p{
+border-bottom: 2px solid rgb(0, 0, 0);
+margin-left: 4px;
+margin-right: 4px;
+}
+.foot{
+  font-size: 11px;
+}
+h1{
+  margin: 0;
+  padding-top: 0px;
+}
+.bold{
+  font-weight: bold;
+}
+.solid{
+  border: 10px solid rgb(0, 0, 0);
+  /* padding-left: 5px;
+  padding-right: 5px; */
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-top: 0px;
+  
+}
+.solid1{
+  border: 5px solid rgb(0, 0, 0);
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-top: 0px;
+}
+.solid2{
+  border: 1px solid black;
+margin-top: 0px;
+margin-bottom: 0px;
+margin-left: 2px;
+margin-right: 2px;
+
+}
+.temp{
+ margin-left: 4px;
+margin-right: 4px;
+}
+.temp_padd{
+  margin-left: 25px;
+}
